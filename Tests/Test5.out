@@ -1,0 +1,36 @@
+Script started on 2021-11-28 19:45:24-0600
+brb0164@faculty% R
+
+R version 3.4.4 (2018-03-15) -- "Someone to Lean On"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: i686-pc-linux-gnu (32-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> source ("Test5.R")
+> main ()
+0
+ [1] 10  9  8  7  6  5  4  3  2  1  0
+> main ()
+5
+[1] 10  9  8  7  6  5
+> main ()
+12
+NULL
+> q ()
+Save workspace image? [y/n/c]: n
+brb0164@faculty% exit
+
+Script done on 2021-11-28 19:50:21-0600
